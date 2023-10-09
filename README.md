@@ -27,7 +27,7 @@ Please note that the code provided here is a basic example and may require calib
 
 ## Circuit Diagram
 
-![Circuit Diagram](link_to_your_circuit_diagram_image.png)
+![Circuit Diagram](Circuit Diagram.jpg)
 
 
 ## Usage
