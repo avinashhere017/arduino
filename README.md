@@ -1,6 +1,6 @@
 # Arduino-Based Obstacle-Avoiding Robot
 
-Robot Image
+Robot Image(obstacleAvoidigRobot.png)
 
 This repository contains the code for an Arduino-based obstacle-avoiding robot. The robot is designed to navigate its environment while avoiding obstacles using an ultrasonic sensor, DC motors, and a servo motor for steering.
 
@@ -34,8 +34,6 @@ Please note that the code provided here is a basic example and may require calib
 Set up the hardware components according to the circuit diagram provided.
 Upload the obstacle_avoiding_robot.ino code to your Arduino board.
 Power up the robot and watch it navigate while avoiding obstacles.
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 This project was inspired by the desire to create a simple obstacle-avoiding robot using Arduino.
